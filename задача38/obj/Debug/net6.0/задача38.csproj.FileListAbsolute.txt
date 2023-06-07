@@ -1,0 +1,15 @@
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/задача38.csproj.AssemblyReference.cache
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/задача38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/задача38.AssemblyInfoInputs.cache
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/задача38.AssemblyInfo.cs
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/задача38.csproj.CoreCompileInputs.cache
+/Users/macuser/Desktop/дз5C#/задача38/bin/Debug/net6.0/задача38
+/Users/macuser/Desktop/дз5C#/задача38/bin/Debug/net6.0/задача38.deps.json
+/Users/macuser/Desktop/дз5C#/задача38/bin/Debug/net6.0/задача38.runtimeconfig.json
+/Users/macuser/Desktop/дз5C#/задача38/bin/Debug/net6.0/задача38.dll
+/Users/macuser/Desktop/дз5C#/задача38/bin/Debug/net6.0/задача38.pdb
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/задача38.dll
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/refint/задача38.dll
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/задача38.pdb
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/задача38.genruntimeconfig.cache
+/Users/macuser/Desktop/дз5C#/задача38/obj/Debug/net6.0/ref/задача38.dll
